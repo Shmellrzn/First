@@ -1,7 +1,13 @@
 # Git education branch
 
-1. Branch creating
+## Branch creating
 
-2. Branch merging
+* *git branch branch_name* - команда для создания новой ветки с именем "branch_name"
 
-3. Conflicts
+* *
+
+ 
+## Branch merging
+
+## Conflicts
+
